@@ -1,0 +1,13 @@
+Pizza Tabanları:
+1: Klasik - "İçindekiler: Domates, Mozarella, Sucuk, Siyah zeytin" - Fiyat= 129.90 TL
+2: Margarita - "İçindekiler: Domates, Mozarella, Fesleğen, Zeytinyağı" - Fiyat= 119.00 TL
+3: TürkPizza - "İçindekiler: Pastırma, Sucuk, Biber, Mantar" - Fiyat= 149.00 TL
+4: Sade Pizza - "İçindekiler: Kaşar peynir, Kekik, Domates sosu" - Fiyat= 119.00 TL
+Pizza Sosları:
+10: Ekstra Sos istemiyorum. - Fiyat= 0.00 TL
+11: Zeytin - Fiyat= 6.00 TL
+12: Mantarlar - Fiyat= 6.00 TL
+13: Keçi Peyniri - Fiyat= 8.00 TL
+14: Et - Fiyat= 10.00 TL 
+15: Soğan - Fiyat= 7 TL 
+16: Mısır - Fiyat= 6.50 TL
